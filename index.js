@@ -16,8 +16,9 @@ tests('Successful deepStrictEqual does not block suite', () => {
  */
 tests('Test 1', () => {
   // assert.deepStrictEqual(['a'], ['b']);
+  // assert.strictEqual('a', 'b');
   // assert.strictEqual(['a'], ['b']);
-  assert.strictEqual(['a'], ['a']);
+  // assert.strictEqual(['a'], ['a']);
 });
 
 tests('Test 2', () => {

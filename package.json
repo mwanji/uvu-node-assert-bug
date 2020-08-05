@@ -1,0 +1,15 @@
+{
+  "name": "uvu-assert-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "uvu"
+  },
+  "author": "Moandji Ezana",
+  "license": "MIT",
+  "dependencies": {
+    "uvu": "^0.3.1"
+  }
+}
